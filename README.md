@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Anthony Ubillus 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Anthony Ubillus 
+- i'm full stack web developer
+Tecnologies that i use:
+- Angular
+- Spring Boot
+- Node JS
+- Express
+- PHP
+- Symphony
+- Java
+- C#
+- WPF
+- Xamari
+- Ionic
 
 <!---
 Anthua22/Anthua22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
