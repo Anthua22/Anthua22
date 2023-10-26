@@ -1,5 +1,5 @@
 👋 Hi, I’m Anthony Ubillus 
-I'm full stack web developer
+I'm full stack web developer.
 Tecnologies that i use:
 - Angular
 - Spring Boot
